@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Pacifico&display=swap');
+body{
+    font-family:lobster,cursive;
+    text-decoration: none;
+}
+
+#navbar {
+    height: 65px;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    justify-content: space-evenly;
+    display: flex;
+    left: -10px;
+    color: white;
+    background:#1E1E1E;
+    position: fixed;
+    text-decoration-line: none;
+    color: white    ;
+}
+
+body{
+    background-image: url(./Background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Cedarville Cursive', cursive;
+font-family: 'Pacifico', cursive;
+     
+}
+
+img{
+    border-radius:50% ;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 100px;
+}
+
+.profile>h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 350%;
+}
+
+
+.profile{
+height: 650px;
+width: 100%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-size: 100%;
+}
+
+.projects{
+
+height: 650px;
+width: 100%;
+border: 10px ridge rgb(0, 0, 0);
+    border-dotted: 100px;
+    width: 1100px ;
+    height: 500px;
+    margin-left: 100px ;
+    margin-right: -100px;
+    background-image: url(./Background\ 2.jpg);
+}
+
+.projects>h1{
+    text-align: center;
+    font-size: 350%;
+    margin-top: -190px;
+}
+
+.about{
+    height: 650px;
+width: 100%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-size: 100%;
+height: 650px;
+width: 100%;
+border: 10px ridge rgb(0, 0, 0);
+    border-dotted: 100px;
+    width: 1100px ;
+    height: 750px;
+    margin-left: 100px ;
+    margin-right: -100px;
+}
+
+.about>h2{
+text-align: center;
+}
+
+nav{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
